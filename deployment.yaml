@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: registry.hub.docker.com/advika1607/test_devops:latest
+        image: advika1607/test_devops:latest
         resources: {}
 
 ---
